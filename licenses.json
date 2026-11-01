@@ -4,6 +4,16 @@
       "machine_id": "FF0C-0F61-16DD-944E",
       "name": "Ben",
       "status": "active"
+    },
+    {
+      "machine_id": "1111-2222-3333-4444",
+      "name": "Müşteri 1",
+      "status": "active"
+    },
+    {
+      "machine_id": "5555-6666-7777-8888",
+      "name": "Müşteri 2",
+      "status": "active"
     }
   ]
 }
