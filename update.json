@@ -1,7 +1,7 @@
 {
   "product_id": "is-mufettisi-denetim",
-  "version": "14.15.0",
-  "download_url": "https://github.com/codevci-prog/is-mufettisi-denetim/releases/download/v14.15.0/Is_Mufettisi_Denetim_Programi_V14_15_Kurulum_Guncelleme_Setup.exe",
+  "version": "15.2.0",
+  "download_url": "https://github.com/codevci-prog/is-mufettisi-denetim/releases/download/v15.2.0/Is_Mufettisi_Denetim_Programi_V15_2_Kurulum_Guncelleme_Setup.exe",
   "sha256": "6106e06f845587f47da6867ee18fdf5073452ed927807ad2b42ff3feb7a43f99",
-  "notes": "İş Müfettişi Denetim Programı V14.15 güncellemesi."
+  "notes": "İş Müfettişi Denetim Programı V15.2 güncellemesi."
 }
